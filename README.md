@@ -23,3 +23,6 @@ These **MUST** be in this order.
 You can get an oauth string for a Twitch Account [here](https://twitchapps.com/tmi/). Generate on the account you want the bot to use.
 
 You must then edit the source code, under Flirtee.java, specifically [this line](https://github.com/CodeHuset/FlirteeBot/blob/main/src/main/java/Flirtee.java#L19) to reflect the username of the Twitch account you are using. Name is NOT case sensitive.
+
+
+You must also have the `flirts.txt` file in the same directory as the Jar File being run
